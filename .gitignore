@@ -4,7 +4,6 @@
 .settings/ 
 target/
 
-
 # Log file
 *.log
 
